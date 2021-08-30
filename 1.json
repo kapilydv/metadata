@@ -1,0 +1,53 @@
+{
+    "name": "Realm  Token One",
+    "description": "Realm NFT's - Best in the crypto world, This NFT is going to solve some real World Porblems....!",
+    "image": "https://img.cryptokitties.co/0x06012c8cf97bead5deae237070f9587f8e7a266d/733342.svg",
+    "external_url": "https://facebook.com",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 48,
+        "max": 100
+      },
+         {
+        "trait_type": "Base", 
+        "value": "Starfish"
+      }, 
+      {
+        "trait_type": "Eyes", 
+        "value": "Big"
+      }, 
+      {
+        "trait_type": "Mouth", 
+        "value": "Surprised"
+      }, 
+      {
+        "trait_type": "Level", 
+        "value": 5
+      }, 
+      {
+        "trait_type": "Stamina", 
+        "value": 1.4
+      }, 
+      {
+        "trait_type": "Personality", 
+        "value": "Sad"
+      }, 
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Aqua Power", 
+        "value": 40
+      }, 
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Stamina Increase", 
+        "value": 10
+      }, 
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 2
+      }
+    ]
+  }
+  
